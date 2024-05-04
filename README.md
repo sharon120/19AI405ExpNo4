@@ -2,7 +2,7 @@
 <h3>Name:Sharon Harshini L M</h3>
 <h3>Register Number: 212223040193</h3>
 <H3>Aim:</H3>
-<p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
+<p>To Implement A * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
 
 ```

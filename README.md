@@ -47,11 +47,11 @@ A* Search Algorithm
   
     e) push q on the closed list
     end (while loop)
+```
 
+<h2>Program:</h2>
 
-<h2>program</h2>
-
-
+```
 from collections import defaultdict
 H_dist ={}
 def aStarAlgo(start_node, stop_node):
